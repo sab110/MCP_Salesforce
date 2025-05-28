@@ -1,0 +1,1 @@
+# This makes salesforcemcp a Python package
